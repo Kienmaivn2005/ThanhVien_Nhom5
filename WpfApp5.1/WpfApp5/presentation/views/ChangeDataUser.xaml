@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApp5.presentation.views.ChangeDataUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp5.presentation.views"
+        mc:Ignorable="d"
+        Title="ChangeDataUser" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Width="300">
+            <TextBlock Text="         --Cập nhập thông tin mới--" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+
+            <TextBox Text="Tên:" Name="Name" Margin="0,5"/>
+            <TextBox Text="ID:" Name="ID" Margin="0,5"/>
+            <TextBox Text="Giới tính:" Name="Gender" Margin="0,5"/>
+            <TextBox Text="SĐT:" Name="Telephone" Margin="0,5"/>
+            <TextBox Text="Vai trò:" Name="Role" Margin="0,5"/>
+
+            <Button Content="Lưu" Width="100" Height="30" Margin="0,10,0,0" Click="Save_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
