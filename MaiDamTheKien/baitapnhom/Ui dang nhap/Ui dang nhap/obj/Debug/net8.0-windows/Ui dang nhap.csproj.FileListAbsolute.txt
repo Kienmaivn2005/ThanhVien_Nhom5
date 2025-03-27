@@ -1,0 +1,25 @@
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\bin\Debug\net8.0-windows\Ui dang nhap.exe
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\bin\Debug\net8.0-windows\Ui dang nhap.deps.json
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\bin\Debug\net8.0-windows\Ui dang nhap.runtimeconfig.json
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\bin\Debug\net8.0-windows\Ui dang nhap.dll
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\bin\Debug\net8.0-windows\Ui dang nhap.pdb
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\Ui dang nhap.csproj.AssemblyReference.cache
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\MainWindow.baml
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\App.baml
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\App.g.cs
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\Ui dang nhap_MarkupCompile.cache
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\Ui dang nhap.g.resources
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\Ui dang nhap.GeneratedMSBuildEditorConfig.editorconfig
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\Ui dang nhap.AssemblyInfoInputs.cache
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\Ui dang nhap.AssemblyInfo.cs
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\Ui dang nhap.csproj.CoreCompileInputs.cache
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\Ui dang .4F3A007E.Up2Date
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\Ui dang nhap.dll
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\refint\Ui dang nhap.dll
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\Ui dang nhap.pdb
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\Ui dang nhap.genruntimeconfig.cache
+C:\kien\baitapnhom\Ui dang nhap\Ui dang nhap\obj\Debug\net8.0-windows\ref\Ui dang nhap.dll
